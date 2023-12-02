@@ -19,7 +19,7 @@ const Portfolio = () => {
         "An educational website is a huge interactive platform to present various information for people.",
       technologies: "Html | CSS | Javascript | React Js",
       link: "https://educational-website-reactjs.netlify.app/",
-      github: "https://github.com/Rasif-Taghizada/Educational-Website-ReactJs",
+      github: "https://github.com/sabzj",
     },
     {
       id: 2,
@@ -29,7 +29,7 @@ const Portfolio = () => {
         "The COVID Tracking Project collects and publishes the most complete testing data available for all areas of the world.",
       technologies: "React | Redux",
       link: "https://covid-19-tracker-weld-nu.vercel.app/",
-      github: "https://github.com/Rasif-Taghizada/Covid-19-Tracking",
+      github: "https://github.com/sabzj",
     },
     {
       id: 3,
@@ -39,7 +39,7 @@ const Portfolio = () => {
         "This site is a kind of social media platform. You can register and share your posts.",
       technologies: "React | Redux",
       link: "https://rubycode-blog-project.vercel.app/",
-      github: "https://github.com/Rasif-Taghizada/RubyCode-Blog",
+      github: "https://github.com/sabzj",
     },
     {
       id: 4,
@@ -49,7 +49,7 @@ const Portfolio = () => {
         "A dedicated, standalone web page built for specific campaigns and target audiences.",
       technologies: "Html | CSS | JavaScript | Next Js",
       link: "https://alpha-agency-project.vercel.app/",
-      github: "https://github.com/Rasif-Taghizada/Alpha-Agency-Project",
+      github: "https://github.com/sabzj",
     },
     {
       id: 5,
@@ -59,7 +59,7 @@ const Portfolio = () => {
         "For when you need a fast funny joke, here are some short jokes to get anyone giggling.",
       technologies: "Html | Styled-components | Typescript",
       link: "https://jokes-project.vercel.app/",
-      github: "https://github.com/Rasif-Taghizada/Joke-App",
+      github: "https://github.com/sabzj",
     },
     {
       id: 6,
@@ -69,7 +69,7 @@ const Portfolio = () => {
         "Real-world group project which is still in progress and will provide educational platform for future young developers",
       technologies: "Html | Scss | Javascript",
       link: "https://fs-poster-project.vercel.app/",
-      github: "https://github.com/Rasif-Taghizada/Fs-Poster-Project",
+      github: "https://github.com/sabzj",
     },
   ];
 

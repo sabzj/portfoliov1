@@ -7,7 +7,7 @@ const Footer = () => {
   return (
     <footer>
       <a href="#home" className="footer__logo">
-        Rasif Tagizade
+        Zafer Sabbah
       </a>
       <ul className="permalinks">
         <li>
@@ -31,17 +31,13 @@ const Footer = () => {
       </ul>
       <div className="footer__socials">
         <a
-          href="https://www.linkedin.com/in/rasif-tagizada/"
+          href="https://www.linkedin.com/in/zafer-sabbah-9945774"
           target="_blank"
           rel="noreferrer"
         >
           <BsLinkedin />
         </a>
-        <a
-          href="https://github.com/Rasif-Taghizada"
-          target="_blank"
-          rel="noreferrer"
-        >
+        <a href="https://github.com/sabzj" target="_blank" rel="noreferrer">
           <FaGithub />
         </a>
       </div>
