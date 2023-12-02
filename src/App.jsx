@@ -3,6 +3,7 @@ import Contact from "./components/contact/Contact";
 import Footer from "./components/footer/Footer";
 import Header from "./components/header/Header";
 import Intro from "./components/intro/Intro";
+// import "./App.css";
 // import Portfolio from "./components/portfolio/Portfolio";
 // import Testimonials from "./components/testimonials/Testimonials";
 import Topbar from "./components/topbar/Topbar";
